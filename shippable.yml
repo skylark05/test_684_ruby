@@ -5,6 +5,5 @@ go:
 build:
   ci:
     - go version
-    - ruby --version
     - source /usr/local/rvm/scripts/rvm
     - ruby --version
