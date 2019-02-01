@@ -1,5 +1,5 @@
 language: go
-gvm:
+go:
   - "1.9"
 
 build:
